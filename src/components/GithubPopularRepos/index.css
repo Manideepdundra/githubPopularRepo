@@ -1,0 +1,18 @@
+.bgContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.languages-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  width: 80%;
+}
+.languages-list-card {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
